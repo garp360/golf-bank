@@ -1,0 +1,8 @@
+{
+  "name": "golf-bank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "33f4a820"
+}
